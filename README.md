@@ -8,7 +8,7 @@
 using [Plotly Dash](https://dash.plotly.com), designed to provide an Explanation-based feature selection tool for
 building more meaningful and trustworthy machine learning models.
 
-## Key eatures:
+## Key features:
 
 * **Feature Subset Generation**: Generate feature subsets using well-established feature selection methods or
   user-defined approaches.
