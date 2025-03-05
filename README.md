@@ -87,7 +87,7 @@ The hyperparameter recommendation can be toggled on or off.
 You can adjust all hyperparameter according to your needs and experience.
 
 <p align="center">
-   <img alt="--" src="media/hyper_notif.png.png" width="80%" />
+   <img alt="--" src="media/hyper_notif.png" width="80%" />
 </p>
 
 ### Subset evaluation
